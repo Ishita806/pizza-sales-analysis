@@ -15,3 +15,12 @@ Key KPIs:
 Insights:
 - Identified top-selling pizzas and best-performing categories
 - Analyzed monthly order trends to understand demand patterns
+
+## 📊 Dashboard
+![Dashboard](Dashboard_insights.png)
+
+## 🔍 Insights
+![Insights](Insights_summary.png)
+
+## ✅ Conclusion
+![Conclusion](Conclusion.png)
