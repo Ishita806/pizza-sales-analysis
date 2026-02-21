@@ -1,6 +1,6 @@
 # pizza-sales-analysis
 # Pizza Sales Analysis using SQL and Power BI
-# This project focuses on analyzing pizza sales data to understand overall business performance.
+This project focuses on analyzing pizza sales data to understand overall business performance.
 
 Tools Used:
 - SQL for calculating and validating KPIs
